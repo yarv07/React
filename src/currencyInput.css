@@ -1,0 +1,23 @@
+.group {
+  width: 180px;
+  margin: 10px auto 20px;
+  display: flex;
+  border-radius: 15px;
+  
+}
+
+input,select {
+  background: none;
+  border-radius: 10px;
+  border-color: lightskyblue;
+  max-width: 100px;
+  
+}
+
+input {
+  padding-left: 10px;
+}
+
+select {
+  padding: 10px;
+}
